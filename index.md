@@ -4,7 +4,7 @@ This is a demonstration page for the paper "MDCTNet: a Hybrid Approach to Neural
 
 ## Audio Samples
 
-This page has 19 items to demonstrate the MDCTNet and its core codec encoded at 24kb/s mono VBR. The content used for this demo is from the "ODAQ: Open Dataset of Audio Qualiyty"[1].
+This page has 19 items to demonstrate the MDCTNet and its core codec encoded at 24kb/s mono VBR. The content used for this demo is from the "ODAQ: Open Dataset of Audio Quality"[1].
 
 <html>
     <table>
