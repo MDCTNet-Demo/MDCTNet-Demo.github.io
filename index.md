@@ -1,10 +1,10 @@
 # MDCNet: A Hybrid Approach to Neural Audio Coding
 
-This is a demonstartion page for the paper "MDCTNet: a Hybrid Approach to Neural Audio Coding"
+This is a demonstration page for the paper "MDCTNet: a Hybrid Approach to Neural Audio Coding"
 
 ## Audio Samples
 
-This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. The content used for this demo is from the "ODAQ: Open Dataset of Audio Qualiyty"[1].
+This page has 19 items to demonstrate the MDCTNet and its core codec encoded at 24kb/s mono VBR. The content used for this demo is from the "ODAQ: Open Dataset of Audio Qualiyty"[1].
 
 <html>
     <table>
@@ -19,14 +19,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/01b_trumpet_L.wav">
+                        <source src="./Source/01b_trumpet_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/01b_trumpet_L.encoder.wav">
+                        <source src="./Core/01b_trumpet_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -43,14 +43,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/04_choral_L.wav">
+                        <source src="./Source/04_choral_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/04_choral_L.encoder.wav">
+                        <source src="./Core/04_choral_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -67,14 +67,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/11_guitar_L.wav">
+                        <source src="./Source/11_guitar_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/11_guitar_L.encoder.wav">
+                        <source src="./Core/11_guitar_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -91,14 +91,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/13_glockenspiel_L.wav">
+                        <source src="./Source/13_glockenspiel_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/13_glockenspiel_L.encoder.wav">
+                        <source src="./Core/13_glockenspiel_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -115,14 +115,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/20c_accordion_L.wav">
+                        <source src="./Source/20c_accordion_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/20c_accordion_L.encoder.wav">
+                        <source src="./Core/20c_accordion_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -139,14 +139,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/21_violin_L.wav">
+                        <source src="./Source/21_violin_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/21_violin_L.encoder.wav">
+                        <source src="./Core/21_violin_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -163,14 +163,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/23_jazz_L.wav">
+                        <source src="./Source/23_jazz_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/23_jazz_L.encoder.wav">
+                        <source src="./Core/23_jazz_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -187,14 +187,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/27_castanets_L.wav">
+                        <source src="./Source/27_castanets_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/27_castanets_L.encoder.wav">
+                        <source src="./Core/27_castanets_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -211,14 +211,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/39_clapping_L.wav">
+                        <source src="./Source/39_clapping_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/39_clapping_L.encoder.wav">
+                        <source src="./Core/39_clapping_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -235,14 +235,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_CosmosLandromat_remix1_LD6_L.wav">
+                        <source src="./Source/DE_CosmosLandromat_remix1_LD6_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_CosmosLandromat_remix1_LD6_L.encoder.wav">
+                        <source src="./Core/DE_CosmosLandromat_remix1_LD6_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -259,14 +259,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_CosmosLandromat_remix3_LD3_L.wav">
+                        <source src="./Source/DE_CosmosLandromat_remix3_LD3_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_CosmosLandromat_remix3_LD3_L.encoder.wav">
+                        <source src="./Core/DE_CosmosLandromat_remix3_LD3_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -283,14 +283,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_ElephantsDream_LD0_L.wav">
+                        <source src="./Source/DE_ElephantsDream_LD0_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_ElephantsDream_LD0_L.encoder.wav">
+                        <source src="./Core/DE_ElephantsDream_LD0_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -307,14 +307,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_female_speech_music_1_LD0_L.wav">
+                        <source src="./Source/DE_female_speech_music_1_LD0_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_female_speech_music_1_LD0_L.encoder.wav">
+                        <source src="./Core/DE_female_speech_music_1_LD0_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -331,14 +331,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_female_speech_music_2_LD9_L.wav">
+                        <source src="./Source/DE_female_speech_music_2_LD9_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_female_speech_music_2_LD9_L.encoder.wav">
+                        <source src="./Core/DE_female_speech_music_2_LD9_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -355,14 +355,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_female_speech_music_3_LD3_L.wav">
+                        <source src="./Source/DE_female_speech_music_3_LD3_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_female_speech_music_3_LD3_L.encoder.wav">
+                        <source src="./Core/DE_female_speech_music_3_LD3_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -379,14 +379,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_Meridian_remix1_LD3_L.wav">
+                        <source src="./Source/DE_Meridian_remix1_LD3_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_Meridian_remix1_LD3_L.encoder.wav">
+                        <source src="./Core/DE_Meridian_remix1_LD3_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -403,14 +403,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_Meridian_remix2_LD6_L.wav">
+                        <source src="./Source/DE_Meridian_remix2_LD6_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_Meridian_remix2_LD6_L.encoder.wav">
+                        <source src="./Core/DE_Meridian_remix2_LD6_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -427,14 +427,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_SitaSings_remix1_LD0_L.wav">
+                        <source src="./Source/DE_SitaSings_remix1_LD0_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_SitaSings_remix1_LD0_L.encoder.wav">
+                        <source src="./Core/DE_SitaSings_remix1_LD0_L.encoder.wav">
                     </audio>
                 </p>
             </td>
@@ -451,14 +451,14 @@ This page has 19 items to demonstrate the MDCTNet encoded at 24kb/s mono VBR. Th
             <td>
                 <p>
                     <audio controls>
-                        <source src="./source/DE_SitaSings_remix2_LD6_L.wav">
+                        <source src="./Source/DE_SitaSings_remix2_LD6_L.wav">
                     </audio>
                 </p>
             </td>
             <td>
                 <p>
                     <audio controls>
-                        <source src="./core/DE_SitaSings_remix2_LD6_L.encoder.wav">
+                        <source src="./Core/DE_SitaSings_remix2_LD6_L.encoder.wav">
                     </audio>
                 </p>
             </td>
