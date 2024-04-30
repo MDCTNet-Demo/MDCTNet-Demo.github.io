@@ -1,4 +1,4 @@
-# MDCNet: A Hybrid Approach to Neural Audio Coding
+# MDCTNet: A Hybrid Approach to Neural Audio Coding
 
 This is a demonstration page for the paper "MDCTNet: a Hybrid Approach to Neural Audio Coding"
 
